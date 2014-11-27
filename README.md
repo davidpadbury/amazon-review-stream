@@ -1,5 +1,7 @@
 # Amazon Review Stream
 
+[![travis-ci.org](https://travis-ci.org/davidpadbury/amazon-review-stream.svg?branch=master)](https://travis-ci.org/davidpadbury/amazon-review-stream)
+
 Node Transform Stream for parsing the [SNAP Amazon Review datasets](http://snap.stanford.edu/data/web-Amazon-links.html) into JavaScript objects.
 
 ## Usage
