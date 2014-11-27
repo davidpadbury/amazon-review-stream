@@ -1,0 +1,33 @@
+{
+  "name": "amazon-review-stream",
+  "version": "0.0.0",
+  "description": "Node Transform Stream for parsing Amazon Reviews from the Snap dataset into JavaScript objects",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "multipipe": "^0.1.2",
+    "split": "^0.3.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidpadbury/amazon-review-stream.git"
+  },
+  "keywords": [
+    "amazon",
+    "review"
+  ],
+  "author": "David Padbury <david@davidpadbury.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidpadbury/amazon-review-stream/issues"
+  },
+  "homepage": "https://github.com/davidpadbury/amazon-review-stream"
+}
