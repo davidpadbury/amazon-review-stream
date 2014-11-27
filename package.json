@@ -1,6 +1,6 @@
 {
   "name": "amazon-review-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Node Transform Stream for parsing Amazon Reviews from the Snap dataset into JavaScript objects",
   "main": "index.js",
   "directories": {
